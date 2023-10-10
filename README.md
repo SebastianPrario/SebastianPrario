@@ -5,10 +5,8 @@ Una de las cualidades que me define es mi enfoque proactivo hacia los desafíos 
 
 En resumen, me siento entusiasmado por lo que el futuro me depara en la industria de la tecnología de la información. Estoy ansioso por continuar mi crecimiento como desarrollador, colaborar con otros profesionales apasionados y enfrentar nuevos desafíos que me ayuden a perfeccionar mis habilidades y contribuir al mundo de la tecnología de manera significativa. ¡El viaje apenas está comenzando y estoy listo para enfrentarlo con entusiasmo y determinación! 🚀
 
-- 💬 Charlamos? 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+- 💬 Charlamos? <p align="center">
+                  <a href="https://www.linkedin.com/in/sebastianprario/">
+                    <img src="https://skillicons.dev/icons?i=linkedin" />
+                  </a>
+                </p>
